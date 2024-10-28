@@ -13,6 +13,7 @@ The primary goal of this project is to create a user-friendly platform that high
 
 ## Libraries and Frameworks
 - **Owl Carousel**: A popular jQuery plugin used for creating responsive, touch-enabled sliders for displaying content.
+- **FontAwesome**: A versatile icon library, used to add scalable vector icons to the project, giving the UI a polished, professional look.
 
 ## Features
 - **Responsive Design**: The webpage is designed to adapt seamlessly across different screen sizes, including desktops, tablets, and mobile devices.
@@ -22,3 +23,14 @@ The primary goal of this project is to create a user-friendly platform that high
 - **Cross-Browser Compatibility**: The website has been tested on modern browsers, including Chrome, Firefox, Opera, and Microsoft Edge.
 - **Mobile Navigation Menu**: A responsive navigation menu built using pure JavaScript/jQuery, providing a smooth user experience on mobile devices.
 - **Page Loader**: A loading animation that covers the entire screen during the page rendering process, providing a polished user experience.
+- **SEO-Friendly Structure**: The HTML structure is optimized for search engine visibility, with meaningful tags and appropriate heading hierarchies. This makes it easier for search engines to crawl and rank the pages effectively.
+- **Smooth Animations and Transitions**: CSS3 transitions and animations are implemented for UI elements, providing a refined and interactive feel. Elements like buttons, images, and section transitions feature subtle animations that improve the look and feel without overwhelming users.
+
+## Project Link
+[Idea Magix Test Assignment](https://sulajtestassignment.netlify.app)
+
+## Project Recording
+[Screen Recording Link](https://drive.google.com/drive/folders/1iXsTMMpVCrPDNt57rPgyiE0BCpk-FFte?usp=sharing)
+
+## Website Image Provided
+<img src="./Front end.png" alt="Webite Img">
